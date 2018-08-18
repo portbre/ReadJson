@@ -1,0 +1,11 @@
+C:\Users\barrhavenporters\Documents\CSharp\ReadJson\bin\MCD\Debug\netcoreapp2.1\ReadJson.deps.json
+C:\Users\barrhavenporters\Documents\CSharp\ReadJson\bin\MCD\Debug\netcoreapp2.1\ReadJson.runtimeconfig.json
+C:\Users\barrhavenporters\Documents\CSharp\ReadJson\bin\MCD\Debug\netcoreapp2.1\ReadJson.runtimeconfig.dev.json
+C:\Users\barrhavenporters\Documents\CSharp\ReadJson\bin\MCD\Debug\netcoreapp2.1\ReadJson.dll
+C:\Users\barrhavenporters\Documents\CSharp\ReadJson\bin\MCD\Debug\netcoreapp2.1\ReadJson.pdb
+C:\Users\barrhavenporters\Documents\CSharp\ReadJson\obj\MCD\Debug\netcoreapp2.1\ReadJson.csprojAssemblyReference.cache
+C:\Users\barrhavenporters\Documents\CSharp\ReadJson\obj\MCD\Debug\netcoreapp2.1\ReadJson.csproj.CoreCompileInputs.cache
+C:\Users\barrhavenporters\Documents\CSharp\ReadJson\obj\MCD\Debug\netcoreapp2.1\ReadJson.AssemblyInfoInputs.cache
+C:\Users\barrhavenporters\Documents\CSharp\ReadJson\obj\MCD\Debug\netcoreapp2.1\ReadJson.AssemblyInfo.cs
+C:\Users\barrhavenporters\Documents\CSharp\ReadJson\obj\MCD\Debug\netcoreapp2.1\ReadJson.dll
+C:\Users\barrhavenporters\Documents\CSharp\ReadJson\obj\MCD\Debug\netcoreapp2.1\ReadJson.pdb
